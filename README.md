@@ -37,7 +37,7 @@
 <h2>Test Artifacts </h2>
 <p> 
 <ul>
-<li>  <a href="https://github.com/dankramer2222/certificates">certificates from courses</a></li>
+<li>  <a href="https://github.com/NadyaShulga/Certificates">certificates from courses</a></li>
 <li>  <a href="https://github.com/dankramer2222/PythonQaToolsSelenium">Python Test Automation PetProject </a></li>
 <li>  <a href="https://github.com/dankramer2222/qa-portfolio">Qa tools and example of my bug reports/test cases </a>   </li>
 <li> <a href="https://github.com/dankramer2222/BookStore">Bookstore</a>   </li>
