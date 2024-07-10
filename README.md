@@ -1,6 +1,7 @@
 <h2>Hi there, I am Nadya 🤗 Let me find some <img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
 
-<p> A former Developmental Psychologist, and now a Software QA engineer, I enjoy studying human skills and programming languages. I love solving problems and effectively communicating with both people and computers. I am a lifelong learner and I am passionate about improving the quality of software!</p> 
+<p> A former Developmental Psychologist, and now a Software QA engineer, I enjoy studying human skills and programming languages. 
+  I love solving problems and effectively communicating with both people and computers. I am a lifelong learner and passionate about improving the quality of software!</p> 
 
 <h2>Skills and Technologies</h2>
 <p align="left">
